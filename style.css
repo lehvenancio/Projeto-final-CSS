@@ -302,7 +302,7 @@ a:hover {
 
 /* RESPONSIVO*/
 
-@media (max-width: 500px)
+@media (max-width: 500px) {
     .social-media {
         display: flex;
         flex-direction: column;
